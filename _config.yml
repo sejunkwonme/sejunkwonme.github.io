@@ -18,7 +18,7 @@ include:
 author:
   name:              Sejun Kwon
   email:             sejunkwon@outlook.com
-  url:               https://sejunkwonme.github.io/
+  url:               https://sejunkwonme.github.io
 
 plugins:
   - jekyll-sitemap
