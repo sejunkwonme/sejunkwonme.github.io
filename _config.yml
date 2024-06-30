@@ -3,7 +3,7 @@ description:         'A blog on things about which I may or may not know stuff'
 tagline:             'A blog on things about which I may or may not know stuff'
 paginate:            5
 
-url:                 https://blog.michaelstrasser.com
+url:                 https://sejunkwonme.github.io/
 baseurl:             ""
 permalink:           /:year/:month/:title/
 
@@ -16,9 +16,9 @@ include:
   - .well-known
 
 author:
-  name:              Michael Strasser
-  email:             blog@michaelstrasser.com
-  url:               http://michaelstrasser.com/
+  name:              Sejun Kwon
+  email:             sejunkwon@outlook.com
+  url:               https://sejunkwonme.github.io/
 
 plugins:
   - jekyll-sitemap
@@ -28,6 +28,6 @@ plugins:
 version:             2.0
 
 github:
-  repo: https://github.com/mjstrasser/mjstrasser.github.io
+  repo: https://github.com/sejunkwonme/sejunkwonme.github.io
 
-repository: mjstrasser/mjstrasser.github.io
+repository: sejunkwonme/sejunkwonme.github.io
