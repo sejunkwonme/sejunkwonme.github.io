@@ -1,5 +1,8 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'github-pages', group: :jekyll_plugins
-
-gem 'faraday', '< 1.0'
+gem "jekyll"
+gem "jekyll-gist"
+gem "jekyll-paginate"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "jekyll-redirect-from"
