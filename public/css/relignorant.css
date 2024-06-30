@@ -1,0 +1,64 @@
+.categories-list {
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #313131;
+    letter-spacing: -.025rem;
+    font-size: 100%
+}
+.post-category,
+.post-tag {
+    display: inline-block;
+    background: rgba(106, 159, 181, 0.15);
+    padding: 0 0.5rem;
+    margin-right: 0.25rem;
+    border-radius: 4px;
+    color: #6a9fb5;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: 90%;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out
+}
+.post-date {
+    display: inline;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: 90%;
+}
+.post-article {
+    margin-top: 1.0rem;
+}
+.img-caption {
+    text-align: center;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+pre {
+    white-space: pre;
+    overflow: auto;
+    font-size: 0.7rem;
+    /* Safari overrides overflow: auto with word-wrap, but Chrome and Firefox do not */
+    word-wrap: unset;
+}
+code {
+    font-size: 80%;
+    padding: 0.25em;
+}
+#markdown-toc li {
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+.build-revision {
+    display: none;
+}
+
+.revision-hover:hover > .build-revision {
+    display: inline;
+}
+
+.site-tagline {
+    display: inline;
+}
+
+.revision-hover:hover > .site-tagline {
+    display: none;
+}
