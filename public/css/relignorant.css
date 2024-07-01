@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'SDGothic';
-    src: url("public/fonts/AppleSDGothicNeo.ttc") format("truetype");
+    src: url("../fonts/AppleSDGothicNeo.ttc") format("truetype");
 }
 
 .categories-list {
-    font-family: "SDGothic", Helvetica, Arial, sans-serif;
+    font-family: "SDGothic", "PT Sans", Helvetica, Arial, sans-serif;
     font-weight: 400;
     color: #313131;
     letter-spacing: -.025rem;
@@ -18,7 +18,7 @@
     margin-right: 0.25rem;
     border-radius: 4px;
     color: #6a9fb5;
-    font-family: "SDGothic", Helvetica, Arial, sans-serif;
+    font-family: "SDGothic", "PT Sans", Helvetica, Arial, sans-serif;
     font-size: 90%;
     -webkit-transition: all 0.1s ease-in-out;
     -moz-transition: all 0.1s ease-in-out;
@@ -26,7 +26,7 @@
 }
 .post-date {
     display: inline;
-    font-family: "SDGothic", Helvetica, Arial, sans-serif;
+    font-family: "SDGothic", "PT Sans", Helvetica, Arial, sans-serif;
     font-size: 90%;
 }
 .post-article {
@@ -34,7 +34,7 @@
 }
 .img-caption {
     text-align: center;
-    font-family: "SDGothic", Helvetica, Arial, sans-serif;
+    font-family: "SDGothic", "PT Sans", Helvetica, Arial, sans-serif;
     font-weight: bold;
 }
 pre {
@@ -49,7 +49,7 @@ code {
     padding: 0.25em;
 }
 #markdown-toc li {
-    font-family: "SDGothic", Helvetica, Arial, sans-serif;
+    font-family: "SDGothic", "PT Sans", Helvetica, Arial, sans-serif;
 }
 
 .build-revision {
