@@ -1,11 +1,11 @@
-title:               SejunKwon's Dev Warehous
+title:               Dev Warehous
 description:         'A blog for trial and error'
 tagline:             'A blog for trial and error'
 paginate:            5
 
 url:                 https://sejunkwonme.github.io
 baseurl:             ""
-permalink:           /:year/:month/:title/
+permalink:           /:year/:month/:day/:title/
 
 exclude:
   - .gitignore
@@ -24,6 +24,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-github-metadata
 
 version:             2.0
 
