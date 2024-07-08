@@ -2,7 +2,7 @@
 layout: post
 title: docker로 개발환경 설정하기
 categories: dailynote
-tags: dev_environmnet
+tags: dev_environment
 ---
 
 ## 개발환경 설정에 대한 고민을 날려줄 한방
